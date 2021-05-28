@@ -1,4 +1,3 @@
-![Screenshot (10)](https://user-images.githubusercontent.com/72556043/119951028-2412d100-bfb9-11eb-91f5-e119637f5574.png)
 # Profile Scrapper
 
 ## Introduction:
@@ -22,5 +21,5 @@ pip install linkedin_api
 ## Output:
 
 #### CSV File:
-![Output](https://user-images.githubusercontent.com/72556043/119949709-c2059c00-bfb7-11eb-9940-75122644dacb.png)
+![Output)](https://user-images.githubusercontent.com/72556043/119951028-2412d100-bfb9-11eb-91f5-e119637f5574.png)
 
