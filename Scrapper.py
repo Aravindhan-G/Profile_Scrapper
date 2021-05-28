@@ -10,7 +10,7 @@ PATH = 'C:\Program Files (x86)\chromedriver.exe'
 lock = threading.Lock()
 keys = ' '
 
-api = Linkedin('vetrivinayak6677@gmail.com','Vetri12Vinkayak')
+api = Linkedin('Linkedin mail-id','Linked-in login password')
 
 def driver_auth():
     opts = Options()
