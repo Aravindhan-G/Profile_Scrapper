@@ -6,7 +6,7 @@ import requests,time,threading,os,warnings
 
 
 
-PATH = 'C:\Program Files (x86)\chromedriver.exe'
+PATH = 'C:\Program Files (x86)\chromedriver.exe' #Location to your chrome driver.
 lock = threading.Lock()
 keys = ' '
 
