@@ -16,7 +16,8 @@ pip install bs4
 # Install api
 pip install linkedin_api
 ```
-### ScreenShots:
+### Output:
 
+#### CSV File:
 ![Output](https://user-images.githubusercontent.com/72556043/119949709-c2059c00-bfb7-11eb-9940-75122644dacb.png)
 
