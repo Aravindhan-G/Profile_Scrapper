@@ -16,7 +16,7 @@ pip install bs4
 # Install api
 pip install linkedin_api
 ```
-> :warning: **Run the code only once in a while.: As the code uses automated browser for scraping, **Google** and **LinkedIn** will detect frequent requests sent from the bot if run several times. Please do not run the code often. Or else **Your LinkedIn account might get banned. If Possible please use a demo linkedin account if available.**
+> :warning: **Run the code only once in a while**.: As the code uses automated browser for scraping, **Google** and **LinkedIn** will detect frequent requests sent from the bot if run several times. Please do not run the code often. Or else **Your LinkedIn account might get banned. If Possible please use a demo linkedin account if available.**
 
 ## Output:
 
